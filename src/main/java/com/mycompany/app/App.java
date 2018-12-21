@@ -11,6 +11,7 @@ public class App
     public App() {}
 
     public static void main(String[] args) {
+        String jjj = "java";
         System.out.println(new App().getMessage());
     }
 
